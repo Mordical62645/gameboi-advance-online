@@ -33,6 +33,10 @@ void write_byte(uint16_t addr, uint8_t value) {
 // Test
 int main(){
     write_byte(0x10, 0xAB); // Write 0xAB to address 0x10
+    // 0x10 - Hexadecimal (base-16) representing an address     - Specifies where in ram to store the data   = Decimal: 16   = Binary: 00010000
+    // 0xAB - Hexadecimal value representing the data to store                                               = Decimal: 171  = Binary: 10101011 (8 bits / 1 byte)
+    // Analogy: storing the number 171 on shelf 16.
+
     printf("Read 0x%X from address 0x10", read_byte(0x10));
 
     return 0;   
