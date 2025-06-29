@@ -7,7 +7,7 @@
 # define RAM_SIZE 256 // 256 bytes of ram
 
 // uint8_t      = 8 bits    = 1 byte unsigned integer   = values 0 - 255
-// uint16_t     = 16 bits   = 2 byte unsigned integer.  = values 0 - 65535 (64KB RAM    )
+// uint16_t     = 16 bits   = 2 byte unsigned integer.  = values 0 - 65535 (64KB RAM)
 
 
 uint8_t ram[RAM_SIZE];  // RAM as byte array
