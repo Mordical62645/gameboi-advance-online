@@ -1,0 +1,1 @@
+// simulate gba memory mapping
