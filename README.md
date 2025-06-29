@@ -1,6 +1,6 @@
-# GameBoi Advanced Online
+# GameBoi Advance Online
 
-GameBoi Advanced Online is a web-based Game Boy Advance emulator designed to run directly in your browser. Our vision is to make classic GBA gaming accessible to everyone—no installations, no downloads, just instant nostalgia through the web.
+GameBoi Advance Online is a web-based Game Boy Advance emulator designed to run directly in your browser. Our vision is to make classic GBA gaming accessible to everyone—no installations, no downloads, just instant nostalgia through the web.
 
 > [!NOTE]
 > This project is currently in active development.
