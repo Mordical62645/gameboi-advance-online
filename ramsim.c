@@ -41,3 +41,6 @@ int main(){
 
     return 0;   
 }
+
+
+// How tf do I integrate this with the calculator then? :/
