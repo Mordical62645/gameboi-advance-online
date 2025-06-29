@@ -18,6 +18,5 @@ GameBoi Advanced Online is a web-based Game Boy Advance emulator designed to run
 
 - https://github.com/shamblesides/apu
 - https://mgba-emu.github.io/gbatek/
-- https://gbdev.io/pandocs/
-- https://gekkio.fi/files/gb-docs/gbctr.pdf
+- https://github.com/mgba-emu/mgba
 - https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm
